@@ -61,7 +61,7 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        generate("de.adorsys.xs2a.adapter","xs2a-adapter-codegen/src/main/resources/psd2-api 1.3.9 2021-05-04v1.json", "1.3.9");
+        generate("de.adorsys.xs2a.adapter","xs2a-adapter-codegen/src/main/resources/psd2-api v1.3.13 2024-11-38.json", "1.3.12");
     }
 
 
